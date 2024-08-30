@@ -1,15 +1,4 @@
 
----
-title: EmoTrans for ERC
-# cover: '/image/travel/china/dongbei/heb.png'
-categories: [study, paper, accept]
-tags: accepted_papers
-description: EmoTrans for ERC Accpeted at COLING2024 
-# 文章置顶
-# top: 1 
-sticky: false
----
-
 <h2 align="center"> <a href="https://aclanthology.org/2024.lrec-main.508/">EmoTrans: Emotional Transition-based Model for Emotion Recognition in Conversation</a></h2>
 <h5 align="center"> If you appreciate our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.  </h2>
 
