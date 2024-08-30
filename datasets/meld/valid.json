@@ -1,0 +1,5775 @@
+[
+    [
+        {
+            "text": "Oh my God, he's lost it. He's totally lost it.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "What?",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "Or! Or, we could go to the bank, close our accounts and cut them off at the source.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You're a genius!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Aww, man, now we won't be bank buddies!",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Now, there's two reasons.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hey.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "All",
+            "emotion": "joy"
+        },
+        {
+            "text": "Ohh, you guys, remember that cute client I told you about? I bit him.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Where?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "On the touchy.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, I know!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I-I'm sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Well, next time your massaging him, you should try and distract yourself.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah! Yeah! Yeah! Like-like when I'm doing something exciting and I don't wanna get",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Thank you, Joey.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No-no, thank you.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hey Estelle, listen",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well! Well! Well! Joey Tribbiani! So you came back huh? They",
+            "speaker": "Estelle",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What are you talkin' about? I never left you! You've always been my agent!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Really?!",
+            "speaker": "Estelle",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah!",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh well, no harm, no foul.",
+            "speaker": "Estelle",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Okay, you guys free tonight?",
+            "speaker": "Gary",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah!!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Tonight? You-you didn't say it was going to be at nighttime.",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "Yes? Yes?! How can I help you?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, we were\u0085we were just looking around.",
+            "speaker": "Guy",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh-oh, you're-you're fellow scholars.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What exactly were you looking for, hmm?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Perhaps,  perhaps Dr. Chester Stock's musings on the Smiledon Californicus?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Uhh\u0085.",
+            "speaker": "Guy",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ah\u0085 Ah\u0085Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion's views on evolution?",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Uh, actually I find Marion's views far too progressionist.",
+            "speaker": "Woman",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I find Marion's views far too progressionist.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm sorry, who are you?",
+            "speaker": "Woman",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I'm a professor here uh, Ross\u0085Geller.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ross Geller, why do I know that name? It's uh\u0097Wait!  Did you write this?",
+            "speaker": "Woman",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yes! You're the person who checked out my book?!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Y'know, you look nothing like I would've thought. You're\u0085you're so young.",
+            "speaker": "Woman",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well I uh, I skipped forth grade.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "You had no right to tell me you ever had feelings for me.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "What?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I was doing great with Julie before I found out about you.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "The point is I...",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "I don't need this right now, OK.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "It, it's too late, I'm with somebody else, I'm happy.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "This ship has sailed.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Alright, fine, you go ahead and you do that, alright Ross.",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "Fine.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Cause I don't need your stupid ship.",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "Good.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Good.",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Oh, it's so romantic to send people off on their honeymoon.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Y'know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "All in good time my love.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "All in good time.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh shoot!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I left my guitar in their apartment.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Well you can let me in later.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I don't have a key, they took mine to give to you.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?! They took mine to give to you!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Why would they take away our keys?",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "Wow! It looks like we got a lot of good stuff.",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh we did, but my mom got us the greatest gift of all.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "A",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No. She's going to live with us for eight weeks.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Uh, what?",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yes! She's gonna help us take care of the baby! Woo-hoo.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "What\u0097You're not serious.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I mean she's a very nice woman, but there is no way we can take eight weeks of her.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "She'll drive us totally crazy.",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Hi Ross!",
+            "speaker": "Mrs. Green",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hi roomie!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Hey! What did you decide to do about the movie?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I don't know!",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's not like it's porn!",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "This is a serious, legitimate movie.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And the nudity is really important to the story.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "That's what you say about porn.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You're right. Maybe I shouldn't even go on the call back.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Well that's true.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And I am only naked in one scene.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Plus it sounds really great.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "My character's catholic and he falls in love with this Jewish girl.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Who run away together and they get caught in this big rainstorm.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "So we go into this barn and undress each other and hold each other.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's really sweet and-and tender.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Hey, what's up?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Nothing, Monica and I had a stupid fight.",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        },
+        {
+            "text": "But you're still moving in together, right? Because my ad came out today.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "\"Wanted. Female roommate, non-smoker, non-ugly.\" Nice!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yeah?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I just figured y'know, after living with you it'd be an interesting change of pace to have a female roommate, y'know?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Someone I can learn from, someone-someone who's different than me.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And what's more different than me. A guy who's",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "So where are we going next?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "This witness won't return my calls so we're gonna see if we can surprise him coming home.",
+            "speaker": "Gary",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Sur-surprise him? We're not, we're not gonna make anybody mad are we?",
+            "speaker": "Chandler",
+            "emotion": "fear"
+        },
+        {
+            "text": "Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "It's a witness not a perp. And no one talks like that!",
+            "speaker": "Gary",
+            "emotion": "anger"
+        },
+        {
+            "text": "Yeah, no one talks like that!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Oh what? Like your Mr. Cop!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Hey, I'm more cop than you two!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "How do you figure that?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hello! I'm in the front seat, okay? I'm Gary's partner!",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I guess so.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Here you go. Thank you!",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Wait, Rach! Where's the other one?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh what, you-you want both of them?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Rachel Karen Green, where's the other earring?!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Okay, okay, okay, look, just don't freak out, but I kinda lost it.",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "I know it's in the apartment, but I",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, what am I going to tell Monica? She wants to wear them tonight!",
+            "speaker": "Phoebe",
+            "emotion": "fear"
+        },
+        {
+            "text": "Tell her to wear her own earrings.",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "These",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "Why not?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Because I lose her stuff!",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Uh Phoebe, can I see you for a second?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah!",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What's going on?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Chandler's gone again!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Oh my God! Why would you play hide and seek with someone you know is a flight risk?!",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Okay. You ready to push again?",
+            "speaker": "Dr. Harad",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I already had a baby. Leave me alone.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Okay, okay, come on, you can do it. You can do it!",
+            "speaker": "Frank",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yeah!!",
+            "speaker": "Frank",
+            "emotion": "joy"
+        },
+        {
+            "text": "Little Leslie is here!",
+            "speaker": "Frank",
+            "emotion": "joy"
+        },
+        {
+            "text": "We got another one!",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Oh my God, I can't believe I have two-two children.",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "How scary is that?",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",
+            "speaker": "Frank",
+            "emotion": "joy"
+        },
+        {
+            "text": "All right, he's coming. He's coming!",
+            "speaker": "Dr. Harad",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey, where's his thing?",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Chandler's a girl!",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Oh God, kindergarten flashback.",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "They musta read the sonogram wrong.",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Cause they, 'cause they thought it was a boy, but Chandler's a girl!",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Chandler's a girl!",
+            "speaker": "Frank",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Okay, keep saying it!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Am I too late?!",
+            "speaker": "Alice",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",
+            "speaker": "Frank",
+            "emotion": "joy"
+        },
+        {
+            "text": "We have our babies?",
+            "speaker": "Alice",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "Frank",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh, we have our babies.",
+            "speaker": "Alice",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Hey Toby!",
+            "speaker": "Bob",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey Bobby.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's Bob actually. Hey, you work up here, can you tell me where this Chandler",
+            "speaker": "Bob",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Uhh yeah. Yeah, it's  right, right down there.  Right there, yeah. Can I ask you why?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I want to talk to that bastard, see what his problem is.",
+            "speaker": "Bob",
+            "emotion": "anger"
+        },
+        {
+            "text": "Okay Bob listen uhh, I'm the reason you didn't get the job up here.",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Toby don't.",
+            "speaker": "Bob",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Bob!",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Toby! I'm not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!",
+            "speaker": "Bob",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Thank you.  Oh Joey and look at this crib! It's so cute!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "I know! I found it on the street.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Are you serious\u0097Really?! It's in such good condition.",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Wow! Whoa-whoa what's under the covers?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I don't know.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's moving.",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Ew.",
+            "speaker": "Joey",
+            "emotion": "disgust"
+        },
+        {
+            "text": "It's still\u0097\u0097It's got a tail! Get it out of here! Get it out of here!!",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Ooh! Ah! Okay!",
+            "speaker": "Joey",
+            "emotion": "fear"
+        }
+    ],
+    [
+        {
+            "text": "Well, I went over to Kyle's last night to pick up a few things and we got to reminiscing",
+            "speaker": "Whitney",
+            "emotion": "neutral"
+        },
+        {
+            "text": "we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So",
+            "speaker": "Kyle",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh just say it Kyle!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "We're gonna give it another try.",
+            "speaker": "Kyle",
+            "emotion": "joy"
+        },
+        {
+            "text": "What about her whining and her constant need for attention?!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "I'm gonna work on that.",
+            "speaker": "Whitney",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh right, because you're so capable of change.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Y'know, he hums when he pees!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "I do know.",
+            "speaker": "Whitney",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It makes him miss the bowl, but whatever.",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "We're so sorry.",
+            "speaker": "Whitney",
+            "emotion": "sadness"
+        },
+        {
+            "text": "That's all right, we-we don't need you. In fact, hey I'm over it already.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Yeah, and y'know what? I don't give a tiny rat's ass.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Yeah, we're gonna go.",
+            "speaker": "Kyle",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm sorry. Ugh, Pheebs, you were, you were right about her. Y'know, she",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh. Y'know, he hums while he does other stuff to.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, we're better off without them.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "And y'know, even if they break up again, you'd better not let him in your sad men's club!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Divorced men's club.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Why isn't that valet back with my Porsche?",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Maybe because you've got the keys?",
+            "speaker": "Passerby",
+            "emotion": "anger"
+        },
+        {
+            "text": "This is totally your fault!",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "My fault?! You threatened the judge!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Well, you ripped the paper out of the court reporter's machine!!",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Phoebe!",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Have you seen Chandler?!",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No! Why?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!",
+            "speaker": "Monica",
+            "emotion": "fear"
+        },
+        {
+            "text": "I know!",
+            "speaker": "Monica",
+            "emotion": "fear"
+        },
+        {
+            "text": "How bad is this?",
+            "speaker": "Monica",
+            "emotion": "fear"
+        },
+        {
+            "text": "Well for the regular guy, it's bad, but Chandler, Oh dear God!",
+            "speaker": "Phoebe",
+            "emotion": "fear"
+        },
+        {
+            "text": "I know! I know! And he totally freaked out and I can't find him anywhere!",
+            "speaker": "Monica",
+            "emotion": "fear"
+        },
+        {
+            "text": "What are you gonna do?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, I'm never gonna listen to you again, that's for sure!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "\"Y'know, harm can it do if you go and put your name down?\"",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Rachel said that!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well Rachel's not here!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Come on, come on.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Damnit, damnit, damnit, damnit.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "This is all your fault.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "This is supposed to be, like, the greatest day of my life, y'know?",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "The woman I love is having a baby today. I've been waiting for this just as much as you have.",
+            "speaker": "Susan",
+            "emotion": "anger"
+        },
+        {
+            "text": "No no no, believe me.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "No one has been waiting for this as much as I have, ok?",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "And you know what the funny thing is?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "When this day is over, you get to go home with the baby, ok?",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Where does that leave me?",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "You get to be the baby's father.",
+            "speaker": "Susan",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Everyone knows who you are.",
+            "speaker": "Susan",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Who am I?",
+            "speaker": "Susan",
+            "emotion": "anger"
+        },
+        {
+            "text": "There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",
+            "speaker": "Susan",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Every day is Lesbian Lover Day.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "This is so great.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "You wanna explain that?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "And it's not even born yet.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "It's just, it's just the luckiest baby in the whole world.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "I'm sorry, you were fighting.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Okay, it's a typical New York City apartment. Two girls are just hanging out.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hi, how are you doing Kelly?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm doing just fine! God, Tiffany, you smell so great!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "It's my new perfume. Why don't you come closer where you can",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, y'know Joey, you are sick!",
+            "speaker": "Rachel",
+            "emotion": "disgust"
+        },
+        {
+            "text": "This is disgusting!",
+            "speaker": "Monica",
+            "emotion": "disgust"
+        },
+        {
+            "text": "I'm not reading this!",
+            "speaker": "Rachel",
+            "emotion": "disgust"
+        },
+        {
+            "text": "What?! Wait-wait-wait! The handsome man was about to enter!!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "All right, I'll give you this, Mr. Peanut is a better dresser.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I mean he's got the monocle, he's got the top hat...",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You know he's gay?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I just wanna clarify this: are you outing Mr. Peanut?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hi. Hi.",
+            "speaker": "All",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What are you doing here?",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "Well, what?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What is it?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "That she left you?",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "That she likes women?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "That she left you for another woman that likes women?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Then what?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "My first time with Carol was...",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It was my",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "With Carol?  Oh.",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "So in your whole life, you've only been with one\u0097\u0097oh.",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "Hi. Where is everybody?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, it's already closed, Chris gave me the keys to lock up-what is wrong?",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "My marriage, I think my marriage is um, is kinda over.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh no! Why?",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Cause Carol's a lesbian.  And, and I'm not one. And apparently it's not a mix and match situation.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh my God! I don't believe it! Oh, you poor bunny.",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I'm an idiot.",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "I mean shoulda seen it, I mean Carol and I'd be out and she'd, she'd see some beautiful woman, and, and she'd be Ross y'know look at her, and I'd think, God, my wife is cool!",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Aw! Hey, do you think that Susan person is her lover?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, now I do!!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I'm sorry.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Seven years.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I mean we've been together seven years, she's the only woman who's ever loved me, and the only woman I've-I've ever....",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Aw, God Ross. Oh.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "I'll do it.",
+            "speaker": "Cookie",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No you won't.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Look he knows he did a terrible thing and I believe him, he's sorry.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "But,  you've got one more apology to make, all right, you've got to apologize to Mary-Angela.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, absolutely!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "All right.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You've got it.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Cookie, now you can punch him!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "What?!",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "All right, that's it, I quit.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "What? I didn't say anything.",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah, but this  isn't the face of a person who trusts a person.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ok, this  is the face of a person who, you know, doesn't trust a person.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Would you relax? I know what I am doing. This is how he wears it.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Julie.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Jody!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "You were with Julie?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And then, one thing led to another and, before I knew it, we were...shopping.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh. Oh my God.",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Honey, wait. We only did it once. It didn't mean anything to me.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Yeah, right.\u00a0 Sure!",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "Really, Rachel, I was thinking of you the whole time.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Look, I'm sorry, all right.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I never meant for you to find out!",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh, please, you wanted to get caught.",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "That is not true!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Oh, so you just sort of happened to leave it in here?",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "Did it ever occur to you that I might just be that stupid?",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ok, Monica. I just have to know one thing. Did you go with her to",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Yeah!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I can't say.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Why?!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Why not?",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I can't say because he's famous.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh my God, who is it?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Phoebe, come on, you have to tell us.",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Okay, okay. It's James Brolin. James Brolin is the father of my baby.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "As in Barbara Streisand's husband James Brolin?",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What?! Well he never said that to me!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "In",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, this life! Oh okay no, Chandler's is worse.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Man, it must be so cool remembering stuff like that! I don't have any past life memories.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Of course you don't sweetie. You're brand new.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I know Monica's worst Thanksgiving.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, let's not tell this story.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh, come on!",
+            "speaker": "All",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "What?! Joey got a turkey stuck on his head?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hey, it's not like it sounds.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Who was that?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Wendy bailed. I have no waitress.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh... that's too bad. Bye bye.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Ten dollars an hour.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Twelve dollars an hour.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Mon. I wish I could, but I've made plans to walk around.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You know, Rachel, when you ran out of your wedding, I was there for you.",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Done.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "The reactor's gonna blow in three seconds, we're never gonna make it!",
+            "speaker": "Joey",
+            "emotion": "fear"
+        },
+        {
+            "text": "You've got to get out of here! Save yourself!",
+            "speaker": "Phoebe",
+            "emotion": "fear"
+        },
+        {
+            "text": "No! I won't leave you!",
+            "speaker": "Joey",
+            "emotion": "fear"
+        },
+        {
+            "text": "Don't worry about me, I'm a robot! I'm just a machine!!",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "No you're not! Not to me!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Oh my God.",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I am",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, you're great! Okay, let's take it from",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "No, I mean I was really acting my ass off.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yeah, I thought I was pretty good too.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh yeah, you're solid. Yeah, you're just no me.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Y'know what? I think that's enough for now. Yeah. I don't want to be over rehearsed.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Fine!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "I'll do it without you!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "I don't need you or anybody else!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "I'm gonna make it on my own!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "You'll see!!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "You'll",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I can't believe that Ross is gone. It is just so sad.",
+            "speaker": "Kori",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I didn't know Ross and you were so close.",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.",
+            "speaker": "Kori",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I'm sure that would mean a lot to him.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I thought so many times about calling him and asking him out.    I guess I really missed my chance.",
+            "speaker": "Kori",
+            "emotion": "sadness"
+        },
+        {
+            "text": "But you didn't!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "I'm still alive!!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Kori, I know this is a big surprise for you.",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "It's a long story but the things    you just said really made my day!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "I mean, the fact that you are here means more    to me than if this room were filled with people!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "You sick freak, who does that? I can't believe I had a crush on    you!",
+            "speaker": "Kori",
+            "emotion": "anger"
+        },
+        {
+            "text": "Did you hear that? Kori Weston had a crush on me!!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "We'll do a quick check.",
+            "speaker": "Dr. Long",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "So, eight days late huh?",
+            "speaker": "Dr. Long",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You must be a little uncomfortable.",
+            "speaker": "Dr. Long",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Eh, just a tad.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You're about 80 percent effaced, so you're on your way.",
+            "speaker": "Dr. Long",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It still could last a little while longer.",
+            "speaker": "Dr. Long",
+            "emotion": "neutral"
+        },
+        {
+            "text": "If you're anxious there are a few ways to help things along.",
+            "speaker": "Dr. Long",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Do them!!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Actually, they're things you can do. Just some home remedies, but in my experience I've found that some of them are quite effective.",
+            "speaker": "Dr. Long",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, we are ready to try anything.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, there's an herbal tea you can drink.",
+            "speaker": "Dr. Long",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "What is wrong with Emma?",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Oh she misunderstood, she thought she was moving to Tulsa.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Anytime you're ready.",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ok, ok, here we go.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ok, where am I talking to, here?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Just aim for the bump.",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ok, ok, ok, ok, here goes.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You know, I, you know, can't do this.",
+            "speaker": "Ross",
+            "emotion": "fear"
+        },
+        {
+            "text": "Uh, this is too weird.",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "I feel stupid.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "So don't do it, it's fine. You don't have to do it just because Susan does it.",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hello, baby. Hello, hello.",
+            "speaker": "Ross",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Oh, hi. It's Mark.",
+            "speaker": "Mark",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Easy. Easy. You have to go to the hospital. Okay?",
+            "speaker": "Ross",
+            "emotion": "fear"
+        },
+        {
+            "text": "Okay, I do.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I really do.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, I'm gonna get your coat and then I'll-I'll put you in a cab.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay. Oh wait, wait-wait, you're not gonna come with me?",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Of course I am. I just have to make a call.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Thank you.  Oww!!!! God!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What?! I wh-, what's wrong?",
+            "speaker": "Ross",
+            "emotion": "fear"
+        },
+        {
+            "text": "I'm sorry, I just can't go to the hospital lookin' like this.",
+            "speaker": "Rachel",
+            "emotion": "disgust"
+        }
+    ],
+    [
+        {
+            "text": "Pete Becker is circling the ring now. It looks like, he's just trying to feel him out. Oh, Bruiser is just...",
+            "speaker": "TV Announcer",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Run! Run you crazy, rich freak!",
+            "speaker": "Chandler",
+            "emotion": "fear"
+        },
+        {
+            "text": "Oh, I can't watch this.",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Check it out, he's winning!  Pete's winning!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Really?!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No-o-o!!",
+            "speaker": "Joey",
+            "emotion": "fear"
+        },
+        {
+            "text": "Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",
+            "speaker": "TV Announcer",
+            "emotion": "fear"
+        },
+        {
+            "text": "Oh! Oh!",
+            "speaker": "All",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Wait, if that's his favourite area, why is he being so mean to it?",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well, this is ironic.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Of your last two boyfriends, Richard didn't want to have kids, and from the looks of it, now Pete can't.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Dude, you don't have to brag! We got nothing here!!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Should we tell Rachel there's an empty private room right next door to hers?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "We could, or we can have sex in it.",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Well let me think about that, while I remove my pants!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "I thought I was a complete idiot.",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hey, I'm with you. He even asked me if I thought you'd go out with him.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh! Oh, I think I'm gonna throw up a little bit. What did you say?",
+            "speaker": "Rachel",
+            "emotion": "disgust"
+        },
+        {
+            "text": "I said no.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What? I\u0085I just figured since you're pregnant you're not gonna be seeing people.",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "I didn't tell him. I didn't know if you were telling people. This is back when I thought Kash was still people.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Good-good, don't tell him. Don't tell him. Just have him call me okay?",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Rach look, I really don't think that's such a great",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Okay, you go do it! I'll come back to that set! I'll meet more actors! I'll meet em all!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Ohh, here you are. I was looking for you before. Joshua's gone so you and Emily are free to go.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "That's okay.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "She's still in there enjoying her fake party and uh, it's too late to do any of the things I had planned, so",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Ah! Ah! I forgot my jacket!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "You tell them to wait!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Okay. Wait! Wait!",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Emily.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh no-no-no! Oh-no!  No! No! Emily!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Hey. Call me when you get there. Okay?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I know. You're the guy who wouldn't chip in for the handyman.",
+            "speaker": "The Hot Girl",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Nevermind!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",
+            "speaker": "The Hot Girl",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Jen.",
+            "speaker": "The Hot Girl",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Jen, I know this may sound a little\u0085 But uh, would you maybe wanna grab a cup of coffee sometime, or",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Sure! That would be nice.",
+            "speaker": "Jen",
+            "emotion": "joy"
+        },
+        {
+            "text": "Umm?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh! My number is on there.  Give me a call.",
+            "speaker": "Jen",
+            "emotion": "joy"
+        },
+        {
+            "text": "I will give you a call.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'll see you later.",
+            "speaker": "Jen",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "I forgot my paper.",
+            "speaker": "Jen",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Here we go. Okay, brace yourselves.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ow!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Aren't you gonna go?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No. Thank you.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, Rachel never pees in public restrooms.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.'  Well, if everybody's going.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, y'know what don't close it  cause the... keys...are in there.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, no-no-no-no-no-no!!",
+            "speaker": "Chandler",
+            "emotion": "fear"
+        },
+        {
+            "text": "What's going on?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "My lighter's in there!",
+            "speaker": "Chandler",
+            "emotion": "fear"
+        }
+    ],
+    [
+        {
+            "text": "I promise.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Although, don't feel like you can't visit.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hey, is, is, is Chandler here?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, no he's not.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You guys, Joey just saw Janice kissing her ex-husband.",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What?  So what are you going to do? I mean how, how are you going to tell Chandler?",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well, I was thinking about that and I, I think the best way would be, to not.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Joey, you can't keep this to yourself, if you know about this, you have to tell him.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It'll kill him. I mean it'll, it'll just kill him.",
+            "speaker": "Joey",
+            "emotion": "fear"
+        },
+        {
+            "text": "Well, you could wait til I go to the dentist, maybe",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hey, what are you doing here?",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ah yeah, but now it's Susan and me in Mexico and the hostages coming home.",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Where's Ben?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "He's sleeping.",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ahh.  Ooh, is this a ah, is this a bad time?",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Umm, yeah, actually, Susan's gonna be home any minute, it's kinda an anniversary.",
+            "speaker": "Carol",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh! I thought you guys got married in uh, January?",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "It's not that kind of anniversary.",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ah!  Oh.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Sooo!! Anyway...",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Where are we gonna find a tiny little hat?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, oh, oh, I'll get Rainy Day Bear'!!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Because he'll know what to do?  Oh my God, you're a genius!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh God, oh God, it's sowed on though.",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Give it. Give it.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh!!",
+            "speaker": "Monica and Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Oh, it's just like a bloodbath in here today.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Please. This is so your fault.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "How, how is this my fault?",
+            "speaker": "Susan",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Look, Carol never threw me out of a room before you came along.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Yeah? Well, there's a lot of things Carol never did before I came along.",
+            "speaker": "Susan",
+            "emotion": "anger"
+        },
+        {
+            "text": "Hey, hey, ok, all right, that's it!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Get in here.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Come on.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "My god, you guys, I don't believe you.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "So just stop all the yelling, just stop it!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Yeah, Susan.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Don't make me do this again, I don't like my voice like this.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ok, who wants to hear something ironic?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Oh! Here it is!  Ooh, Joey! Why did you sign it, \"Son of a bitch?\"",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I didn't do that! Who would've done that?!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Son of a bitch!",
+            "speaker": "The Dry Cleaner",
+            "emotion": "anger"
+        },
+        {
+            "text": "Okay, maybe ask this guy.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Y'know sometimes the good ideas are just right in front of you, aren't they?",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Okay, I know it sounds crazy, but I think it might work. Y'know? The only problem is, Carl's acting is",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "The",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, he's the reason I didn't get that big",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hey, uh can I get a little piece of that cake?",
+            "speaker": "Carl",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Pizza!! We like Pizza!! Get out!!!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Hey Monica, there's a customer who wants to complement the chef, should I let him in?",
+            "speaker": "Waitress",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Sure, I love this part!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Come on in.",
+            "speaker": "Waitress",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Really? In the moment, I really wanted to kiss you too. In the moment.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "In the moment, yeah.",
+            "speaker": "Janine",
+            "emotion": "neutral"
+        },
+        {
+            "text": "But only in the moment. So do ya wanna kiss again?",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Sure, New Year's Eve is only two weeks away. Can you wait?",
+            "speaker": "Janine",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Me neither.",
+            "speaker": "Janine",
+            "emotion": "neutral"
+        },
+        {
+            "text": "3, 2,",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Joey, you don't have to count down every time we kiss.",
+            "speaker": "Janine",
+            "emotion": "joy"
+        },
+        {
+            "text": "Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Alright. Phoebe?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, okay.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yeah, see.. you took mine. Chandler, what about you?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "See, there's always one guy.  \"If I had a wish, I'd wish for three more wishes.\"",
+            "speaker": "Rachel",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Hey Joey. Hi. Hey, buddy.",
+            "speaker": "All",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hey, Joey, what would you do if you were omnipotent?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Probably kill myself!",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "..Excuse me?",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hey, if Little Joey's dead, then I got no reason to live!",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Joey, uh-",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "You",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I'm sorry.",
+            "speaker": "Kate",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Joey, onstage!",
+            "speaker": "Stage Manager",
+            "emotion": "anger"
+        },
+        {
+            "text": "Well can you at least stay to the end of the play?",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I mean, I'll go to the airport with ya, I-I wanna say good bye.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Where are you Vic?",
+            "speaker": "Lauren",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Flight's in an hour. I-I gotta go.",
+            "speaker": "Kate",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Vic! Vic!",
+            "speaker": "Lauren",
+            "emotion": "anger"
+        },
+        {
+            "text": "In a minute!!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "So this is it? Victor?",
+            "speaker": "Lauren",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Yeah, I guess it is.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "One thing you gotta know, is that I will never forget you.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "But, you've got things you have to do now, and so do I.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "And so\u0085 I'm gonna get on this spaceship,  and I'm gonna go to Blargon 7 in search of alternative fuels.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "But when I return, 200 years from now, you'll be long gone.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "But I won't have aged at all.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I'm gonna want to meet her.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "So long, Vic!",
+            "speaker": "Lauren",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Nooo Way! The most romantic song ever is",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "See, I-I think that one that Elton John wrote for, um, that guy on",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What song was that, Pheebs?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hi Monica!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey Mon!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey Mon!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh my God, has she slept at all?",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Nope.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, it's been three nights in a row.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, okay that explains it.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "But then I realized where would a mouse or a opossum get the money to make the phone call.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "So uh, man, are you gonna go to the play with me tonight?",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Y'know what, I don't know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Yeah, I know but",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh no-no-no, I'm there.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hey Mon! Want some pancakes?",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "You made pancakes?",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yep! Grab a plate.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "No-no, stay right there.  Gettin' closer.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, okay, but don't worry, because we also have cereals, muffins, waffles,",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Listen also we're uh, we're watching the game here Saturday night, if people want to come over.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh yeah!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Yes, if the foxhole was lined with sandwiches.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, hero sandwiches.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well you all know that I'm a pacifist so I'm not interested in war in any way.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "When the revolution comes, I will have to destroy you all.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Not you Joey.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Oh my good God.",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Look, you have done enough! Okay? You have to stop this now.",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh, the mixed tape.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "The Way You Look Tonight",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "You are just the sweetest.",
+            "speaker": "Monica",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Hey!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey, guess what I'm doing tonight.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm checking out the restaurant with Pete.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ohh, Monica, I am so excited for you.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ooh, actually I've been making a list of all the women I know who might be into doing this!",
+            "speaker": "Carol",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh.  Wow!  Huh.  Boy!  Well, someone's been doing their homework.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, I know.  Y'know, just-just talking about it is getting me kinda",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, me too.",
+            "speaker": "Carol",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "and then, we could've gone from the ceremony to the reception with you in the sidecar!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Ross, it just wouldn't have been feasible.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "But having a dove place the ring on your finger would've been no problem?",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "It was really fun being married to you tonight.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yeah! And! And, it was the easiest 400 bucks I've ever made.",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Okay Ross, can I uh, can I ask you something?",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "That proposal, at the planetarium",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I know, I know it was stupid.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Are you kidding?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "With the, with the lilies, and-and the song, and the stars!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "It was\u0085really wonderful!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Did you just make that up?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No, actually I thought about it when, when we were going out.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's how I imagined I uh, I would ask you to marry me.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, that would've been very hard to say no too.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's a good thing I didn't do it, because it sounds like it would've been a very expensive wedding.  Okay, good night",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Goodnight",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Even if the sidecar had a windscreen so your hair wouldn't get messed up?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I will think about it.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "That's all I'm askin'",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn't feel bad!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well actually, I-I didn't eat mine. It's still in the bathroom.",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "No it isn't, I ate that.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well we left ours in Monica's bedroom.",
+            "speaker": "Mrs. Geller",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Nope, got it and I got yours  too.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "And that's I'm so glad\u0085 there's no problem.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "That's fine, actually I'm on the hiring committee, so there'll be at least one friendly face.",
+            "speaker": "Joanna",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ohh! That's great!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "You know, Junior Miss is where I started. Oh, I had to sleep with the",
+            "speaker": "Joanna",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Really?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No-ho-ho!",
+            "speaker": "Joanna",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "Joanna",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I mean, no-no-no-no-no, don't you worry, I'm sure with your qualifications you won't need to sleep with some guy to get that job.",
+            "speaker": "Joanna",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Although, I might need some convincing.",
+            "speaker": "Joanna",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, I, umm",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Kidding! God, I feel wild today!",
+            "speaker": "Joanna",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Oh my God! Chandler just left though!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah but, maybe it's not what we think. Maybe it's tell Monica I'm sorry I\u0085drank the last of the milk.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Or maybe he-he was writing to tell her that-that he's changed his name, y'know? Tell Monica I'm sorry.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I think it means he freaked out and left!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Don't be so negative! Good God! Isn't it possible that Sorry is sitting in there  right now?!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Okay. Phoebe, I-I think Ross is right. What are we gonna do?",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Look\u0097Okay, I'm just gonna\u0097I'm gonna have to go find him and bring him back!",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You-you make sure Monica does not find out, okay?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I will, I will find him.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hey!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hi! Hey!",
+            "speaker": "All",
+            "emotion": "joy"
+        },
+        {
+            "text": "Do you guys know any cute guys?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, of course I do! My good friend Joey over here.",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh, I'm sorry. Thank you Chandler.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Anyway, there's this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What's the charity?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I don't know, something either trees or disease\u0097Ralph mumbles a lot.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Does Ralph mumble when you're not paying attention?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah! It's weird. But the thing is need to find a date.",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well, what kind of guy are you looking for?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Hey!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "What are you guys doing later?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, Rachel and I have appointments to get our hair cut.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "We do?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I want to see what he wants first.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I just found out that Elizabeth's dad wants to meet me.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Wait a minute, hold the phone! You're not Elizabeth's dad?!",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Come on guys, I-I really want this guy to like me.",
+            "speaker": "Ross",
+            "emotion": "fear"
+        },
+        {
+            "text": "It-it would really help me out if you guys were here to make me look good.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Of course we'll help! Yeah! We'll be here!",
+            "speaker": "All",
+            "emotion": "joy"
+        },
+        {
+            "text": "Thanks!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "We know how tough those parent/teacher conferences can be.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Oh, hi! How are you doing?",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "I'm okay. I gotta go down to the police station and look at mug shots.",
+            "speaker": "Tag",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Thanks for having me over, you guys.",
+            "speaker": "Tag",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Tag?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Y-You're going?",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Uh we didn't, uh we didn't get the chance to talk.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Uh, so, where did you say you're from again?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Colorado.",
+            "speaker": "Tag",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ah, what good are you.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Look, um, I think we should talk about what happened on the terrace.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Tag",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ah, I-I never should have said what I said.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "It\u0097y'know what?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It just doesn't matter how I feel.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Um, I'm not.",
+            "speaker": "Tag",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, god, I knew it, that I freaked you out.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",
+            "speaker": "Tag",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Really?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah, so, please don't fire me for doing this.",
+            "speaker": "Tag",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Pass it! Pass it!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "He's open!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Shoot! Shoot! Shoot!",
+            "speaker": "All",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey, look, we're on that TV thing!",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "I am so psyched I kept this chair for myself!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yeah, me too.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah? Wow! Y'know, that this thing has speakers in the headrest!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No. Really?",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah! You can hook it up to your TV",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "My chair heals itself.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Yes! Yes, I did.",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Then do Iceberg!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "G-sharp.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "G",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?! I didn't touch a guitar!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No, but you're questioning my method!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "No, I'm not questioning it, I'm saying it's stupid!  What?!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Thank you.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Y'know none of my other student thought I was stupid.",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Your other student, was you!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Yeah, well, y'know maybe you just need to try a little harder!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Look, maybe I need to try a real teacher!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Right here!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Here!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "\"Baddest man in the whole damn town.\"",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, fine! Take his side!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "And shame on you! You should know better, Joey needs to work.  Now come on!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Hi!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hi.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hi.  Umm, I think there's something that we really need to talk about.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "I think we do. Why don't we go inside?  Look uh, I know why you're here.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "You do?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.  Uh, Ross and Rachel. Rachel and Ross. That's been one heck of a see-saw hasn't it?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I mean look, that-that one night we had was fun and\u0085and certainly passionate, but don't you think it's better if we just stayed friends?",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Seriously. What?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Y'know what?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "If you want to, we can do it one more time.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I mean I'd-I'd be okay with that.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "In fact, I have some time right now.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, y'know what? Can I, can I talk now?",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh sure.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm pregnant.  Ross?  Ross?  Okay, whenever you're ready.  And you're the father by the way\u0097but you got that",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "We should defiantly play football more often. Maybe there's a like league we could join or something.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I know!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yes! Wow, well, that-that was easy. Okay, you-you go.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, you know, you know when your in bed, with a woman.",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hmph.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And, ah, you know, your fooling around with her.",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "With the belly-button ring? Oh, muhawa!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "I know, And then all of the sudden your Mom pops into your head.",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "And your like 'Mom, get outta here!'",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "So it's kinda like, you're, you know.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You know.... You don't know!",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "You said...",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I said '",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Oh!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Look at Emma!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I just can't decide who she looks more alike, you or Rachel?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh what are you kidding? She's gorgeous, it's all Rachel.",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "I'm sorry, for the last time, why aren't you two together again?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, I know.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I know, because you're not in that place.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Which would be fine, except you totally are.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's\u0085it's complicated okay?",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Yeah that's true. Yeah, you love her. You always have. You have a child together. There is no right answer.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Look, we've been together.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Okay?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And then apart, and then together, and then apart, and now we have a baby.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "It's just if-if we got together again and it didn't work out\u0085I could never do that to Emma.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I mean she-she thinking everything\u0097 Oh that's\u0085now me.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "What do they put something in the water in this place?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Since Rachel and I we're doing really, we're doing really well right now.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I know. I know. I know. I know, and if you try to make it more you might wreck it.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, exactly.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Right.  Or you might get everything you've wanted since you were fifteen.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "God. I forgot how much I love driving. I have",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "You don't have a",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh Ross you're so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What-what are you doing?! Are you\u0097Okay that's not funny! Just stop horsing around!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "I am not horsing around, okay? I am Porsching around.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Uh-oh.",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Really? You think so?",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "I was talking to myself! You're going down!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Hey honey! I missed you today!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh, yeah?",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah.  What d'you wanna do tonight?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, well... Maybe we could...",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ok, trying to turn me on by making a mess?",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Know your audience!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "We really need to take those tests?",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Honey, we've been trying to have a baby for over a year.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I think    it's a good idea to find out if everything's ok. Just a few routine tests.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "But I don't wanna do it in a cup!",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Oh, hi Max! Hey, do you know everybody?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No. Have you seen David?",
+            "speaker": "Max",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, no, he hasn't been around.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, if you see him, tell him to pack his bags. We are going to Minsk.",
+            "speaker": "Max",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Minsk?",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Minsk. It's in Russia.",
+            "speaker": "Max",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I know where Minsk is.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "We got the grant. Three years, all expenses paid.",
+            "speaker": "Max",
+            "emotion": "joy"
+        },
+        {
+            "text": "So when, when do you leave?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "January first",
+            "speaker": "Max",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "You wanted to see me Professor Geller?",
+            "speaker": "Elizabeth",
+            "emotion": "joy"
+        },
+        {
+            "text": "Yes. Yes! Please, come in.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oo-oo!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Pretty great! Except I did get a little attitude from the robot.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Damn those robots, they're supposed to be our",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "Anyway, it wasn't the robot, it was the guy who controls him.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, he doesn't like me.",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "He had C.H.E.E.S.E.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "knock over the sandwich right when I was reaching for one!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ohh!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well, why don't you just get him fired?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I may have to, I hate to do it, but I'm the star!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Y'know?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "There's a limit to how many sandwiches I can eat off the floor.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Excuse me.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Joey Tribbiani.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Joe! I'm glad I found ya, I got an audition for ya!",
+            "speaker": "Estelle",
+            "emotion": "joy"
+        },
+        {
+            "text": "Wow!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "The thing is it's kinda on the Q.T.",
+            "speaker": "Estelle",
+            "emotion": "neutral"
+        },
+        {
+            "text": "The actor who has the part doesn't know he might be fired.",
+            "speaker": "Estelle",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's the lead in a series, Mac and C.H.E.E.S.E.",
+            "speaker": "Estelle",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm the lead in Mac and C.H.E.E.S.E.!!",
+            "speaker": "Joey",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Oh good God! If you want a baby so bad just go steal it!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "What is going on with you? Since when are you so crazy about babies?",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I'm not crazy about babies. I'm crazy about us.",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "What?",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Look, we've always talked about having babies someday.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm not saying it has to be right now, but I'm starting to think that we can handle it.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "We're good.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "We're really good.",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Oh, did you catch him?!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Wh-what did he say?!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "He said, \"Nice to meet you Glenda.\"  Well, obviously I couldn't give him my real name?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Why?! Why not?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Come on, you saw the way he ran out of here!",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "He's gonna stick around and talk to the daughter he abandoned!",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "What did you say to him?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Oh yeah, sure.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, in about ten seconds you're gonna see him kiss me.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "And in about five seconds you're gonna see why.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ross did I ever tell you about the time that I went backpacking through Western Europe?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, get ready to see some beggin'!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh, you came on to Ross!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Now I'm so happy.",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "What are you talking about?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "You used the Europe story!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "That's the magic story you use when you wanna have sex!",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "How do you know about that story?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "How do",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I heard it from my friend Irene who heard it from some guy!",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Some guy!!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No. No, she told me his name was Ken Adams.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ken Adams!!",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "How we doing, you guys ready?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Some days it's all I can think about.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hi, sorry I'm late, I couldn't find my bearings.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Oh... ok, fine.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "But... ehm...",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I just have one question for you,    ehm...",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "When we exit should we walk, or run, or prance,    or stroll...",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",
+            "speaker": "Charlie",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "I can't believe this! How long as this been going on?",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well umm, Alexandra has been",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, it has a name?",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Phoebe, don't get upset!",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Okay\u0097Oop! Too late! I'm leaving! Come on Chandler let's go!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Well, Phoebe I thought I'd\u0097\u0097Yeah, what the hell.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Ben!",
+            "speaker": "Joey",
+            "emotion": "fear"
+        },
+        {
+            "text": "Oh, that's good. Maybe he'll hear you and pull the cord.",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "Stop the bus! Wait! Wait! Wait!",
+            "speaker": "Joey",
+            "emotion": "fear"
+        },
+        {
+            "text": "Are you sure he didn't break it because it really hurts?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",
+            "speaker": "Doctor",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, I'm sorry, I'm really sorry.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Sorry.",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Sorry!",
+            "speaker": "Ross",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I got my s's back!",
+            "speaker": "Ross",
+            "emotion": "joy"
+        },
+        {
+            "text": "Which we can celebrate later.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Celebrate.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Rachel, how did this happen?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I don't know, I just kinda ran into him last night.",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Where?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "At his apartment. Is this juice?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Oh God, I know I'm a pathetic loser.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "I licked my arm, what?",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "It's breast milk.",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "So?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Phoebe, that is juice, squeezed from a person.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What is the big deal?",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "What did you just do?",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Ok, would people stop drinking the breast milk?",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "You won't even taste it?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "No!",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Not even if you just pretend that it's milk?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Not even if Carol's breast had a picture of a missing child on it.",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        }
+    ],
+    [
+        {
+            "text": "Aww!",
+            "speaker": "All",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hey Pheebs, could you please not put your feet up on my new\u0085\u0085old sheet?",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Oh sure!  Noo!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Ohh!!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "My apothecary table!!!",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "What?!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Noooooo!!",
+            "speaker": "Rachel",
+            "emotion": "fear"
+        },
+        {
+            "text": "Ross, where did you get this?!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Oh my God, Phoebe,",
+            "speaker": "Rachel",
+            "emotion": "anger"
+        },
+        {
+            "text": "Wow! Oh my God, well if they've ripped off our table ours must be much more than one and fifty dollars!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Well this doesn't even smell like opium.",
+            "speaker": "Phoebe",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "How is she?",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "It's too soon to tell. She's resting, which is a good sign.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "How's the hair?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm not gonna lie to you, Ross, it doesn't look good.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I put a clip on one side, which seems to have stopped the curling.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Can we see her?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "How're you doing?",
+            "speaker": "Joey",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Of course the packaging does appeal to grown-ups and kids alike.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",
+            "speaker": "Carol",
+            "emotion": "joy"
+        },
+        {
+            "text": "That would be no.",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Come on. It doesn't taste bad.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, it's kinda sweet, sorta like, uh...",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Cantaloupe juice.",
+            "speaker": "Susan",
+            "emotion": "joy"
+        },
+        {
+            "text": "Exactly.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You've tasted it? You've tasted it.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Uh huh.",
+            "speaker": "Susan",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, you've tasted it.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        },
+        {
+            "text": "You can keep saying it, but it won't stop being true.",
+            "speaker": "Susan",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Gimme the bottle.  Gimme the towel.",
+            "speaker": "Ross",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "I still don't get why Greg and Jenny would give us a fake number.",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Y'know, if they knew what they were doing they probably didn't give you real names either.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, maybe people give out fake numbers, but they don't give out fake names.",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Oh yeah?  Hi, Ken Adams, nice to meet you.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Regina Philange.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I still don't get it, we didn't do anything wrong.",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "I know! Although, you did tell an awful lot of jokes.",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "I thought you said those jokes were funny. Joke! Joke! Joke!",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Joke. Joke. Blah! Blah!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Well maybe it was all of your questions.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What about my questions?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "No, I'm sorry. It's just my foot itches like crazy.",
+            "speaker": "Cliff",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh, I'll get it.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Wow! I usually get to know a girl a little better before I let her spoon me.",
+            "speaker": "Cliff",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Relax, it's not like we're forking.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Look at it! Ohhh! Wallpaper's a little faded, that's okay. Carpet's a little loose. Hardwood floors!!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hello.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh! Ooh! Oh Monica! It's so beautiful.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "I know!!!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "So, I'm here, ready to play.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Okay.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I brought a bunch of stuff for the house, so check it out. Ha-ha.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "What's this?",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "That's a dog, every house should have a dog.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Not one that can pee on the roof.",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Well, maybe it's so big because the house was built on radioactive waste.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "And is this in case the house sneezes?",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No, no, that's the ghost for the attic.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I don't want a ghost.",
+            "speaker": "Monica",
+            "emotion": "fear"
+        },
+        {
+            "text": "Well, nobody wants a ghost. But you've got one, because the house is sitting on an ancient Indian burial ground.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",
+            "speaker": "Ross",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Okay, obviously you don't know much about the U.S. government.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hey!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hello.",
+            "speaker": "All",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I need to talk to you!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "Sure, what's up?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",
+            "speaker": "Jeannine",
+            "emotion": "anger"
+        },
+        {
+            "text": "Please, I'm not going for anything.",
+            "speaker": "Monica",
+            "emotion": "disgust"
+        },
+        {
+            "text": "Well, if you don't, I will.",
+            "speaker": "Jeannine",
+            "emotion": "anger"
+        },
+        {
+            "text": "Would you please go?",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "I would!",
+            "speaker": "Ross",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Hey, guys, guys, did you see my new, china cabinet?!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Uh-huh.",
+            "speaker": "Ross and Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Watch, watch.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Ooohhhh!!",
+            "speaker": "Ross and Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "And, and!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Ahhhh!!",
+            "speaker": "Ross and Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Hey, my Father's house does that!",
+            "speaker": "Chandler",
+            "emotion": "surprise"
+        },
+        {
+            "text": "O-o-o-okay, how did it go? Tell me everything.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Okay. It's Emma.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Emma!  See? I don't want it.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        }
+    ],
+    [
+        {
+            "text": "Take it.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "It's clearly an Emma.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh honey, but you love that name.",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Yeah, but I love you more.",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Besides y'know, nothing goes with Bing.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "So I'm screwed.",
+            "speaker": "Monica",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "Oh-oh, I'm a duck! I go, \"Quack, quack!\" I'm happy all the time!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Nice try.",
+            "speaker": "Chandler",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Wait, wait, wait!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Look, Monica",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Look!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "This is not going to work.",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "I bet this will work!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "You are so great! I love you!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "What?",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Nothing! I said, I said \"You're so great\" and then I just, I just stopped talking!",
+            "speaker": "Chandler",
+            "emotion": "fear"
+        },
+        {
+            "text": "You said you loved me! I can't believe this!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No I didn't!",
+            "speaker": "Chandler",
+            "emotion": "fear"
+        },
+        {
+            "text": "Yes, you did!",
+            "speaker": "Monica",
+            "emotion": "surprise"
+        },
+        {
+            "text": "No I didn't!",
+            "speaker": "Chandler",
+            "emotion": "fear"
+        },
+        {
+            "text": "You love me!",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "No I don't! Stop it! Stop it! Stop it! Stop it!",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Hello Greg?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Hi, this is Monica from the plane?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Listen, the number that you gave me 853-5\u0085   That is their old number!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Jenny's been giving it out since they moved!",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "Jenny! That is so Jenny!",
+            "speaker": "Chandler",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hey listen umm, how would you like to get together?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Say next Saturday?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay, how about Sunday?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Okay umm, the week after that?",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "The week after that?",
+            "speaker": "Monica",
+            "emotion": "joy"
+        },
+        {
+            "text": "Y'know what Greg?",
+            "speaker": "Monica",
+            "emotion": "anger"
+        },
+        {
+            "text": "We are good, interesting, funny people with",
+            "speaker": "Monica",
+            "emotion": "anger"
+        }
+    ],
+    [
+        {
+            "text": "Hey Chandler! Y'know that girl you went to college with who-who became a movie director?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh yeah, Dana Keystone. She was in my Movement class.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        },
+        {
+            "text": "What's a Movement class?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It's Chandler's way of pretending he didn't take mime.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Oh well listen, anyway she's directing the new Al Pacino movie. You gotta get me an audition!",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Oh, I don't know man. I haven't talked to her in like ten years.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I am.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Joey, what are you talking about? You're a terrific actor.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "You really think so?",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Ugh, how can you even ask that question?!",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        }
+    ],
+    [
+        {
+            "text": "Ross! Get a shot of this. (He's carrying an issue of the",
+            "speaker": "Joey",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Oh, okay, I'm having another one!",
+            "speaker": "Phoebe",
+            "emotion": "fear"
+        },
+        {
+            "text": "This one doesn't hurt either\u0097Ooh, yes it does!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Ow!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ow!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ow!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ow!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "Ooh!",
+            "speaker": "Phoebe",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Oh, I was kinda hoping that was it.",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Hey, where are Monica and Rachel anyway?",
+            "speaker": "Ross",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah, I love you. Okay, bye!  Hi!",
+            "speaker": "Frank",
+            "emotion": "joy"
+        },
+        {
+            "text": "Hi!",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "That was Alice's mom, she said she left five hours ago. She should be here by now!",
+            "speaker": "Frank",
+            "emotion": "fear"
+        },
+        {
+            "text": "Oh, honey, don't worry. She's gonna make it on time.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "Frank",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I guess I set up the video camera to try and entice Joey.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "But sadly I could not be enticed.",
+            "speaker": "Joey",
+            "emotion": "joy"
+        },
+        {
+            "text": "Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!",
+            "speaker": "Ross",
+            "emotion": "disgust"
+        },
+        {
+            "text": "I'm Monica. I'm disgusting. I stalk guys and keep their underpants.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Well, I think we've all learned something about who's disgusting and who's not.",
+            "speaker": "Joey",
+            "emotion": "anger"
+        },
+        {
+            "text": "Eh?",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "All right, now, I'm going to get back to my bucket.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I'm only eating the skin, so the chicken's up for grabs.",
+            "speaker": "Joey",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Ohh, okay, they gave you the old time pricing.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yeah.",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Well, what period is it from?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Uh, it's from yore. Like the days of yore. Y'know?",
+            "speaker": "Rachel",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yes, yes I do.",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "God, oh it's just perfect!",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "I bet it has a great story behind it too.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        },
+        {
+            "text": "Did they tell you anything?",
+            "speaker": "Phoebe",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Yes! That I know, this is from White Plains.",
+            "speaker": "Rachel",
+            "emotion": "joy"
+        },
+        {
+            "text": "White Plains. Oh, it sounds like such a magical place.",
+            "speaker": "Phoebe",
+            "emotion": "joy"
+        }
+    ],
+    [
+        {
+            "text": "So, you still don't think I'm boyfriend material?",
+            "speaker": "Chandler",
+            "emotion": "anger"
+        },
+        {
+            "text": "Huh?",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I saw you checking me out during the game last night.",
+            "speaker": "Chandler",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "I, umm, shut up!",
+            "speaker": "Phoebe",
+            "emotion": "anger"
+        },
+        {
+            "text": "\u0093Good-bye Phoebe and Ursula. I'll miss you. P.S. Your Mom lives in Montauk.\u0094 You just wrote this!",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "Well, it's pretty much the gist. Well, except for the poem. You read the poem, right?",
+            "speaker": "Ursula",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Noooo!!",
+            "speaker": "Phoebe",
+            "emotion": "sadness"
+        },
+        {
+            "text": "All right, hang on!",
+            "speaker": "Ursula",
+            "emotion": "neutral"
+        }
+    ],
+    [
+        {
+            "text": "Rachel, it's going to happen. Chandler is gonna move in here.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "But I",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "No-no, wait!",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "Just let me finish, okay?",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "This isn't something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "And it",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "It is? Really?",
+            "speaker": "Rachel",
+            "emotion": "surprise"
+        },
+        {
+            "text": "Yeah, sweetie.",
+            "speaker": "Monica",
+            "emotion": "neutral"
+        },
+        {
+            "text": "I mean we're not, we're not gonna live together anymore?",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "No.",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "What? Oh my God! I'm gonna miss you so much!",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I'm gonna miss you!",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I mean it's the end of an era!",
+            "speaker": "Rachel",
+            "emotion": "sadness"
+        },
+        {
+            "text": "I know!",
+            "speaker": "Monica",
+            "emotion": "sadness"
+        }
+    ]
+]

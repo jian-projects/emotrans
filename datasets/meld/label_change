@@ -1,0 +1,9 @@
+[
+    ["neutral", "neutral"],
+    ["surprise", "Sur"],
+    ["fear", "Fear"],
+    ["sadness", "Sad"],
+    ["joy", "Joy"],
+    ["disgust", "Dis"],
+    ["anger", "Ang"]
+]
