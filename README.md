@@ -29,9 +29,9 @@ We would like to recommend the requirements as follows.
 * Python == 3.9.16
 * CUDA Version >= 11.7
 
-1. Clone this repository and navigate to the ccm folder
+1. Clone this repository and navigate to the emotrans folder
 ```bash
-git git@github.com:jian-projects/emotrans.git
+git clone git@github.com:jian-projects/emotrans.git
 cd emotrans
 ```
 
@@ -39,7 +39,7 @@ cd emotrans
 ```Shell
 conda create -n emotrans python==3.9.16
 conda activate emotrans
-pip install -r env.txt
+# pip install -r env.txt
 ```
 
 ## 🌈 How to train and inference
@@ -51,11 +51,11 @@ pip install -r env.txt
 python run_emotrans.py
 ```
 
-3. We re-write the code and thus lose the checkpoints, the performance can be easily reproduction with our provided code and hyper-parameters.
+3. We have re-written the code and thus lose the checkpoints, the performance can be easily reproduction with our provided code and hyper-parameters.
 
 ## Citation
 
-If you find Uni-MoE useful for your research and applications, please cite using this BibTeX:
+If you find it is useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @inproceedings{2024.erc.emotrans,
   author={Zhongquan Jian and Ante Wang and Jinsong Su and Junfeng Yao and Meihong Wang and Qingqiang Wu},
